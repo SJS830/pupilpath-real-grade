@@ -5,6 +5,7 @@
 // @description  try to take over the world!
 // @author       You
 // @match        https://pupilpath.skedula.com/*
+// @match        https://pupilpath.com/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
 // @run-at       document-start
